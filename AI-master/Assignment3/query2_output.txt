@@ -1,0 +1,45 @@
+Samples completed:  100
+Accepted samples:  40
+Accepted valid results:  4
+P( stress ) =  0.1
+Mean:  0.396049175821
+Standard Deviation:  0.25969966708110137
+95% confidnce intervals: Mean +/-  0.08305598256  -> (0.31299319326056052, 0.47910515838050771)
+Time = 0.328
+
+Samples completed:  500
+Accepted samples:  194
+Accepted valid results:  13
+P( stress ) =  0.06701030927835051
+Mean:  0.520120884493
+Standard Deviation:  0.2886470536035799
+95% confidnce intervals: Mean +/-  0.0408739127325  -> (0.4792469717608574, 0.56099479722595236)
+Time = 0.333
+
+Samples completed:  1000
+Accepted samples:  375
+Accepted valid results:  29
+P( stress ) =  0.07733333333333334
+Mean:  0.493612030472
+Standard Deviation:  0.2883425514340311
+95% confidnce intervals: Mean +/-  0.0292785042585  -> (0.46433352621315621, 0.52289053473012159)
+Time = 0.331
+
+Samples completed:  10000
+Accepted samples:  4048
+Accepted valid results:  297
+P( stress ) =  0.07336956521739131
+Mean:  0.5021233982
+Standard Deviation:  0.2921687237439925
+95% confidnce intervals: Mean +/-  0.00900308745458  -> (0.49312031074570689, 0.51112648565486762)
+Time = 0.395
+
+Samples completed:  100000
+Accepted samples:  40014
+Accepted valid results:  3172
+P( stress ) =  0.0792722547108512
+Mean:  0.499430504011
+Standard Deviation:  0.28834020188080506
+95% confidnce intervals: Mean +/-  0.00282527315277  -> (0.49660523085848918, 0.50225577716402436)
+Time = 0.974
+

@@ -1,0 +1,44 @@
+Samples completed:  100
+Accepted samples:  4
+Accepted valid results:  0
+P( cloudy ) =  0.0
+Mean:  0.440266685702
+Standard Deviation:  0.15575129778516067
+95% confidnce intervals: Mean +/-  0.24783507109  -> (0.19243161461222669, 0.68810175679184027)
+Time = 0.335
+
+Samples completed:  500
+Accepted samples:  4
+Accepted valid results:  1
+P( cloudy ) =  0.25
+Mean:  0.654768714603
+Standard Deviation:  0.30141521711674407
+95% confidnce intervals: Mean +/-  0.479618872035  -> (0.17514984256863503, 1.1343875866382711)
+Time = 0.389
+
+Samples completed:  1000
+Accepted samples:  10
+Accepted valid results:  0
+P( cloudy ) =  0.0
+Mean:  0.50535429589
+Standard Deviation:  0.20567638514523978
+95% confidnce intervals: Mean +/-  0.147132022505  -> (0.3582222733854481, 0.65248631839546478)
+Time = 0.334
+
+Samples completed:  10000
+Accepted samples:  101
+Accepted valid results:  14
+P( cloudy ) =  0.13861386138613863
+Mean:  0.534313125934
+Standard Deviation:  0.302074776302775
+95% confidnce intervals: Mean +/-  0.0596333502245  -> (0.47467977570938902, 0.59394647615834595)
+Time = 0.388
+
+Samples completed:  100000
+Accepted samples:  1075
+Accepted valid results:  106
+P( cloudy ) =  0.0986046511627907
+Mean:  0.496647472067
+Standard Deviation:  0.2847530874976246
+95% confidnce intervals: Mean +/-  0.0170412718078  -> (0.47960620025931711, 0.51368874387485342)
+Time = 0.906
